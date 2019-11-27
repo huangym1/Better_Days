@@ -6,3 +6,4 @@
 ## 分析(BetterDays_Analysis)
 1、词云图展示  
 2、全国地图展示
+![images](https://github.com/huangym1/Better_Days/blob/master/Images/result.png)
